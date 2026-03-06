@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-mnemosyne--the-memory-palace
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: Project Mnemosyne: The Memory Palace' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 0NEW_TOPIC: NoneSKILLS: system_design, multi-agent_coordination, automationMETRICS:Coordination: 1Technical Complexity: 8Efficiency: 1Clarity: 1SUGGEST_UI: FalseORIGINAL ERROR LOGS:DeepSeek/AI model did n
